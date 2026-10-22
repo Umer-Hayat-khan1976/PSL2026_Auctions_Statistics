@@ -1,0 +1,136 @@
+player_name,nationality,role,acquisition_type,category,base_price_pkr_lakh,sold_price_pkr_lakh,team,overseas,retained_or_new
+Saim Ayub,Pakistan,Batsman,Retention,Platinum,420.0,1260.0,Hyderabad Kingsmen,No,Retained
+Shadab Khan,Pakistan,All-rounder,Retention,Platinum,420.0,700.0,Islamabad United,No,Retained
+Shaheen Shah Afridi,Pakistan,Bowler,Retention,Platinum,420.0,700.0,Lahore Qalandars,No,Retained
+Babar Azam,Pakistan,Batsman,Retention,Platinum,420.0,700.0,Peshawar Zalmi,No,Retained
+Abrar Ahmed,Pakistan,Bowler,Retention,Platinum,420.0,700.0,Quetta Gladiators,No,Retained
+Mohammad Nawaz,Pakistan,All-rounder,Retention,Platinum,420.0,616.0,Sialkot Stallionz,No,Retained
+Usman Tariq,Pakistan,Batsman,Retention,Diamond,220.0,560.0,Quetta Gladiators,No,Retained
+Mohammad Rizwan,Pakistan,Wicketkeeper-Batsman,Retention,Platinum,420.0,560.0,Pindiz,No,Retained
+Hassan Ali,Pakistan,Bowler,Retention,Platinum,420.0,476.0,Karachi Kings,No,Retained
+Usman Khan,Pakistan,Batsman,Retention,Diamond,220.0,462.0,Hyderabad Kingsmen,No,Retained
+Sufiyan Muqeem,Pakistan,Bowler,Retention,Diamond,220.0,440.0,Peshawar Zalmi,No,Retained
+Hassan Nawaz,Pakistan,Bowler,Retention,Gold,110.0,392.0,Quetta Gladiators,No,Retained
+Salman Mirza,Pakistan,All-rounder,Retention,Diamond,220.0,392.0,Sialkot Stallionz,No,Retained
+Khushdil Shah,Pakistan,All-rounder,Retention,Gold,110.0,336.0,Karachi Kings,No,Retained
+Abbas Afridi,Pakistan,Bowler,Retention,Diamond,220.0,308.0,Karachi Kings,No,Retained
+Sam Billings,England,Wicketkeeper-Batsman,Retention,Diamond,220.0,308.0,Pindiz,Yes,Retained
+Sikandar Raza,Zimbabwe,All-rounder,Retention,Gold,110.0,280.0,Lahore Qalandars,Yes,Retained
+Abdul Samad,Pakistan,All-rounder,Retention,Gold,110.0,280.0,Peshawar Zalmi,No,Retained
+Ahmed Daniyal,Pakistan,Bowler,Retention,Gold,110.0,224.0,Sialkot Stallionz,No,Retained
+Abdullah Shafique,Pakistan,Batsman,Retention,Diamond,220.0,220.0,Lahore Qalandars,No,Retained
+Akif Javed,Pakistan,Bowler,Retention,Gold,110.0,196.0,Hyderabad Kingsmen,No,Retained
+Ali Raza,Pakistan,Bowler,Retention,Emerging,60.0,196.0,Peshawar Zalmi,No,Retained
+Andries Gous,United States,Wicketkeeper-Batsman,Retention,Silver,110.0,140.0,Islamabad United,Yes,Retained
+Salman Irshad,Pakistan,Bowler,Retention,Gold,110.0,120.0,Islamabad United,No,Retained
+Zaman Khan,Pakistan,Bowler,Retention,Gold,110.0,112.0,Pindiz,No,Retained
+Shamyl Hussain,Pakistan,Batsman,Retention,Emerging,60.0,84.0,Quetta Gladiators,No,Retained
+Saad Masood,Pakistan,Bowler,Retention,Emerging,60.0,84.0,Sialkot Stallionz,No,Retained
+Mohammad Naeem,Pakistan,Batsman,Retention,Silver,60.0,70.0,Lahore Qalandars,No,Retained
+Saad Baig,Pakistan,Batsman,Retention,Emerging,60.0,60.0,Karachi Kings,No,Retained
+Yasir Khan,Pakistan,Wicketkeeper-Batsman,Retention,Emerging,60.0,60.0,Pindiz,No,Retained
+Steve Smith,Australia,Batsman,Direct Signing,Unknown,,1400.0,Sialkot Stallionz,Yes,New
+Moeen Ali,England,All-rounder,Direct Signing,Unknown,,644.0,Karachi Kings,Yes,New
+Mustafizur Rahman,Bangladesh,Bowler,Direct Signing,Unknown,,644.0,Lahore Qalandars,Yes,New
+Devon Conway,New Zealand,Batsman,Direct Signing,Unknown,,630.0,Islamabad United,Yes,New
+Aaron Hardie,Australia,All-rounder,Direct Signing,Unknown,,630.0,Peshawar Zalmi,Yes,New
+Marnus Labuschagne,Australia,Batsman,Direct Signing,Unknown,,588.0,Hyderabad Kingsmen,Yes,New
+Spencer Johnson,Australia,Bowler,Direct Signing,Unknown,,560.0,Quetta Gladiators,Yes,New
+Faheem Ashraf,Pakistan,All-rounder,Auction,Platinum,420.0,850.0,Islamabad United,No,New
+Naseem Shah,Pakistan,Bowler,Auction,Platinum,420.0,865.0,Pindiz,No,New
+David Warner,Australia,Batsman,Auction,Platinum,420.0,790.0,Karachi Kings,Yes,New
+Daryl Mitchell,New Zealand,All-rounder,Auction,Platinum,420.0,805.0,Pindiz,Yes,New
+Haris Rauf,Pakistan,Bowler,Auction,Platinum,420.0,760.0,Lahore Qalandars,No,New
+Fakhar Zaman,Pakistan,Batsman,Auction,Platinum,420.0,795.0,Lahore Qalandars,No,New
+Mark Chapman,New Zealand,Batsman,Auction,Platinum,420.0,700.0,Islamabad United,Yes,New
+Salman Ali Agha,Pakistan,All-rounder,Auction,Platinum,420.0,585.0,Karachi Kings,No,New
+Sahibzada Farhan,Pakistan,Batsman,Auction,Platinum,420.0,570.0,Sialkot Stallionz,No,New
+Rilee Rossouw,South Africa,Batsman,Auction,Platinum,420.0,550.0,Quetta Gladiators,Yes,New
+Mohammad Amir,Pakistan,Bowler,Auction,Platinum,420.0,540.0,Pindiz,No,New
+Khawaja Nafay,Pakistan,Batsman,Auction,Silver,110.0,650.0,Quetta Gladiators,No,New
+Azam Khan,Pakistan,Wicketkeeper-Batsman,Auction,Silver,110.0,365.0,Karachi Kings,No,New
+Usama Mir,Pakistan,Bowler,Auction,Diamond,220.0,350.0,Lahore Qalandars,No,New
+Adam Zampa,Australia,Bowler,Auction,Platinum,420.0,450.0,Karachi Kings,Yes,New
+Ashton Turner,Australia,All-rounder,Auction,Platinum,420.0,420.0,Sialkot Stallionz,Yes,New
+Tom Curran,England,All-rounder,Auction,Platinum,420.0,420.0,Quetta Gladiators,Yes,New
+Riley Meredith,Australia,Bowler,Auction,Platinum,420.0,420.0,Hyderabad Kingsmen,Yes,New
+Michael Bracewell,New Zealand,All-rounder,Auction,Platinum,420.0,420.0,Peshawar Zalmi,Yes,New
+Kusal Mendis,Sri Lanka,Wicketkeeper-Batsman,Auction,Diamond,220.0,420.0,Peshawar Zalmi,Yes,New
+Mohammad Wasim Jr.,Pakistan,Bowler,Auction,Diamond,220.0,410.0,Islamabad United,No,New
+Kusal Perera,Sri Lanka,Wicketkeeper-Batsman,Auction,Diamond,220.0,310.0,Hyderabad Kingsmen,Yes,New
+James Vince,England,Batsman,Auction,Diamond,220.0,300.0,Peshawar Zalmi,Yes,New
+Aamir Jamal,Pakistan,All-rounder,Auction,Silver,110.0,190.0,Peshawar Zalmi,No,New
+Ubaid Shah,Pakistan,Bowler,Auction,Emerging,60.0,270.0,Lahore Qalandars,No,New
+Khurram Shahzad,Pakistan,Bowler,Auction,Silver,110.0,270.0,Peshawar Zalmi,No,New
+Mir Hamza,Pakistan,Bowler,Auction,Silver,110.0,240.0,Karachi Kings,No,New
+Asif Afridi,Pakistan,Bowler,Auction,Emerging,60.0,240.0,Pindiz,No,New
+Mohammad Haris,Pakistan,Wicketkeeper-Batsman,Auction,Silver,110.0,220.0,Peshawar Zalmi,No,New
+Irfan Khan Niazi,Pakistan,All-rounder,Auction,Silver,110.0,290.0,Hyderabad Kingsmen,No,New
+Josh Philippe,Australia,Wicketkeeper-Batsman,Auction,Silver,110.0,230.0,Sialkot Stallionz,Yes,New
+Max Bryant,Australia,Batsman,Auction,Emerging,60.0,195.0,Islamabad United,Yes,New
+Jahandad Khan,Pakistan,Bowler,Auction,Silver,110.0,250.0,Quetta Gladiators,No,New
+Johnson Charles,Saint Lucia,Batsman,Auction,Silver,110.0,200.0,Karachi Kings,Yes,New
+Peter Siddle,Australia,Bowler,Auction,Diamond,220.0,250.0,Sialkot Stallionz,Yes,New
+Tabraiz Shamsi,South Africa,Bowler,Auction,Diamond,220.0,220.0,Sialkot Stallionz,Yes,New
+Imad Wasim,Pakistan,All-rounder,Auction,Diamond,220.0,220.0,Islamabad United,No,New
+Richard Gleeson,England,Bowler,Auction,Silver,110.0,110.0,Islamabad United,Yes,New
+Shamar Joseph,Guyana,Bowler,Auction,Silver,110.0,110.0,Islamabad United,Yes,New
+Rishad Hossain,Bangladesh,Bowler,Auction,Silver,110.0,110.0,Pindiz,Yes,New
+Hassan Khan,United States,All-rounder,Auction,Silver,110.0,185.0,Hyderabad Kingsmen,Yes,New
+Ottniel Baartman,South Africa,Bowler,Auction,Silver,110.0,110.0,Hyderabad Kingsmen,Yes,New
+Faisal Akram,Pakistan,All-rounder,Auction,Silver,110.0,125.0,Quetta Gladiators,No,New
+Ben McDermott,Australia,Batsman,Auction,Silver,110.0,110.0,Quetta Gladiators,Yes,New
+Muhammad Waseem,United Arab Emirates,Batsman,Auction,Silver,110.0,110.0,Karachi Kings,Yes,New
+Laurie Evans,England,Batsman,Auction,Silver,110.0,110.0,Pindiz,Yes,New
+Sameer Minhas,Pakistan,Batsman,Auction,Emerging,60.0,190.0,Islamabad United,No,New
+Mehran Mumtaz,Pakistan,Wicketkeeper-Batsman,Auction,Emerging,60.0,120.0,Islamabad United,No,New
+Saud Shakeel,Pakistan,Batsman,Auction,Emerging,60.0,65.0,Quetta Gladiators,No,New
+Shan Masood,Pakistan,Batsman,Auction,Emerging,60.0,65.0,Sialkot Stallionz,No,New
+Iftikhar Ahmed,Pakistan,All-rounder,Auction,Emerging,60.0,180.0,Peshawar Zalmi,No,New
+Haider Ali,Pakistan,Batsman,Auction,Emerging,60.0,150.0,Islamabad United,No,New
+Haseebullah Khan,Pakistan,Wicketkeeper-Batsman,Auction,Emerging,60.0,110.0,Lahore Qalandars,No,New
+Momin Qamar,Pakistan,Bowler,Auction,Emerging,60.0,107.5,Sialkot Stallionz,No,New
+Khalid Usman,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Peshawar Zalmi,No,New
+Aqib Ilyas,Oman,All-rounder,Auction,Emerging,60.0,60.0,Karachi Kings,Yes,New
+Khuzaima Bin Tanveer,United Arab Emirates,Batsman,Auction,Emerging,60.0,90.0,Karachi Kings,Yes,New
+Shahid Aziz,Pakistan,Bowler,Auction,Emerging,60.0,92.5,Karachi Kings,No,New
+Shayan Jahangir,United States,Batsman,Auction,Emerging,60.0,60.0,Hyderabad Kingsmen,Yes,New
+Hammad Azam,United States,All-rounder,Auction,Emerging,60.0,60.0,Hyderabad Kingsmen,No,New
+Sharjeel Khan,Pakistan,Batsman,Auction,Emerging,60.0,60.0,Hyderabad Kingsmen,No,New
+Abdullah Fazal,Pakistan,Bowler,Auction,Emerging,60.0,67.5,Pindiz,No,New
+Amad Butt,Pakistan,Bowler,Auction,Emerging,60.0,80.0,Pindiz,No,New
+Dian Forrester,South Africa,Batsman,Auction,Emerging,60.0,60.0,Pindiz,Yes,New
+Fawad Ali,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Pindiz,No,New
+Kamran Ghulam,Pakistan,Batsman,Auction,Emerging,60.0,65.0,Pindiz,No,New
+Mohammad Amir Khan,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Pindiz,No,New
+Shahzaib Khan,Pakistan,Batsman,Auction,Emerging,60.0,60.0,Pindiz,No,New
+Nahid Rana,Bangladesh,Bowler,Auction,Emerging,60.0,60.0,Peshawar Zalmi,Yes,New
+Dasun Shanaka,Sri Lanka,All-rounder,Auction,Emerging,60.0,75.0,Lahore Qalandars,Yes,New
+Parvez Hossain,Bangladesh,Batsman,Auction,Emerging,60.0,60.0,Lahore Qalandars,Yes,New
+Asif Ali,Pakistan,Batsman,Auction,Emerging,60.0,60.0,Lahore Qalandars,No,New
+Hussain Talat,Pakistan,All-rounder,Auction,Emerging,60.0,77.5,Lahore Qalandars,No,New
+Mohammad Hasnain,Pakistan,Bowler,Auction,Emerging,60.0,77.5,Lahore Qalandars,No,New
+Tayyab Tahir,Pakistan,Batsman,Auction,Emerging,60.0,60.0,Lahore Qalandars,No,New
+Gudakesh Motie,Guyana,Bowler,Auction,Emerging,60.0,110.0,Lahore Qalandars,Yes,New
+Wasim Akram Jr.,Pakistan,Bowler,Auction,Emerging,60.0,62.0,Quetta Gladiators,No,New
+Khan Zaib,Pakistan,Batsman,Auction,Emerging,60.0,60.0,Quetta Gladiators,No,New
+Bismillah Khan,Pakistan,Wicketkeeper-Batsman,Auction,Emerging,60.0,60.0,Quetta Gladiators,No,New
+Saqib Khan,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Quetta Gladiators,No,New
+Brett Hampton,New Zealand,All-rounder,Auction,Emerging,60.0,60.0,Quetta Gladiators,Yes,New
+Samuel Harper,England,Wicketkeeper-Batsman,Auction,Emerging,60.0,60.0,Quetta Gladiators,Yes,New
+Bevon Jacobs,New Zealand,All-rounder,Auction,Emerging,60.0,60.0,Quetta Gladiators,Yes,New
+Lachlan Shaw,Australia,Bowler,Auction,Emerging,60.0,60.0,Sialkot Stallionz,Yes,New
+Delano Potgieter,South Africa,Batsman,Auction,Emerging,60.0,60.0,Sialkot Stallionz,Yes,New
+Jahanzaib Sultan,Pakistan,Batsman,Auction,Emerging,60.0,60.0,Sialkot Stallionz,No,New
+Muhammad Awais Zafar,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Sialkot Stallionz,No,New
+Abdul Subhan,Pakistan,Bowler,Auction,Emerging,60.0,62.5,Peshawar Zalmi,No,New
+Mir Hamza Sajjad,Pakistan,Bowler,Auction,Emerging,60.0,70.0,Islamabad United,No,New
+Mohammad Hamza Sohail,Pakistan,Bowler,Auction,Emerging,60.0,62.5,Karachi Kings,No,New
+Dipendra Singh Airee,Nepal,All-rounder,Auction,Emerging,60.0,60.0,Islamabad United,Yes,New
+Sameen Gul,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Islamabad United,No,New
+Ihsanullah,Pakistan,Bowler,Auction,Emerging,60.0,105.0,Karachi Kings,No,New
+Hunain Shah,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Hyderabad Kingsmen,No,New
+Asif Mehmood,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Hyderabad Kingsmen,No,New
+Rizwan Mehmood,Pakistan,All-rounder,Auction,Emerging,60.0,60.0,Hyderabad Kingsmen,No,New
+Fawad Alam,Pakistan,Batsman,Auction,Emerging,60.0,60.0,Pindiz,No,New
+Ibrar Ahmed,Pakistan,Bowler,Auction,Emerging,60.0,60.0,Pindiz,No,New
