@@ -124,6 +124,9 @@ assets/teams/karachi_kings.png
 
 PNG, JPG, JPEG and WEBP files are supported. Only add images you have the right to use.
 
+Code Link:
+https://colab.research.google.com/drive/1UxGWAG2UFyeW2cM_xLPSPsoebTw4GDHz?usp=sharing
+
 ## Customization
 
 - **Team colors:** edit the `TEAM_COLORS` dictionary in `app.py`.
