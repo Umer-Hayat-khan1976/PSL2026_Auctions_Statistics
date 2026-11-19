@@ -146,8 +146,8 @@ This is an independent educational project. It is not affiliated with or endorse
 **Umer Hayat Khan**
 Computer Systems Engineer (UET Peshawar), working on AI systems.
 
-- GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- GitHub: https://github.com/Umer-Hayat-khan1976
+- LinkedIn: https://www.linkedin.com/in/umer-hayat-khan-0297a0255/
 
 ## Feedback
 
